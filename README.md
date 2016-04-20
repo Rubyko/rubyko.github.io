@@ -7,3 +7,5 @@ http://gwtmaterialdesign.github.io/gwt-material-demo/#!about
 http://www.gwtproject.org/doc/latest/tutorial/create.html#create
 
 https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+
+http://www.eclipse.org/m2e/
