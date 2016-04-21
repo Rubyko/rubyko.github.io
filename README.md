@@ -9,3 +9,5 @@ http://www.gwtproject.org/doc/latest/tutorial/create.html#create
 https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
 http://www.eclipse.org/m2e/
+
+https://docs.sencha.com/gxt/4.x/getting_started/maven/Archetypes.html
