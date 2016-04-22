@@ -10,4 +10,4 @@ https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
 http://www.eclipse.org/m2e/
 
-https://docs.sencha.com/gxt/4.x/getting_started/maven/Archetypes.html
+http://askubuntu.com/questions/643164/mvn-version-dmaven-multimoduleprojectdirectory-system-propery-is-not-set
